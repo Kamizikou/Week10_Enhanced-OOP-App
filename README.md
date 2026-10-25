@@ -21,7 +21,7 @@ This Dart application models a vehicle hierarchy and diagnostic system built usi
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Steps:
 - Open dartpad.dev
